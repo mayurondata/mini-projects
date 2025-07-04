@@ -15,7 +15,7 @@ These projects are intended to highlight specific problem-solving approaches rat
 | COVID-19 Data Visualizer   | Cleans and visualizes pandemic trends from public datasets               | Pandas, Plotly          |
 | EDA Dashboard              | Interactive exploratory analysis dashboard for tabular data              | Streamlit, Seaborn      |
 | Loan Default Prediction    | Predicts loan repayment defaults using classification models             | Scikit-learn            |
-| Crop Yield Predictor       | Predicts agricultural crop yield using environmental and historical data | Pandas                  |
+| Crop Yield Predictor       | Predicts agricultural crop yield using environmental and historical data | Scikit-learn, Pandas    |
 | Chest X-Ray Classification | Detects pneumonia in chest X-rays using CNN and transfer learning        | TensorFlow, OpenCV      |
 | Keyword Extractor          | Extracts key terms from text using TF-IDF vectorization                  | NLTK                    |
 | Text Cleaning Toolkit      | Preprocesses raw text for downstream NLP tasks                           | re, NLTK                |
